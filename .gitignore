@@ -2,3 +2,5 @@
 /.project
 /.settings
 /target
+/.m2
+/.bluemix
